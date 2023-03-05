@@ -12,7 +12,7 @@ Um mini-projeto tem o objetivo apenas visualizar em países, de acordo seus stat
 - TypeScript;
 ---
 ***Obs:*** Novas ferramentas poderão ser incluídos brevemente, mas por enquanto serão mantidos que foram listados 
-
+---
 ### Authors
 
 - [@gabr1el94](https://www.github.com/gabr1el94) - Software Developer and System Analyst
